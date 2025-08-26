@@ -1,4 +1,5 @@
-# I. Giới thiệu Git
+# I. Giới thiệu Git (Cre: HaoSvit)
+
 * **Tóm tắt:**
   - Git dùng để quản lý phiên bản code, rất thuận lợi trong làm việc nhóm thậm chí làm 1 mình.  
   - Git có nhiều trang hỗ trợ như: [github.com](https://github.com), [bitbucket.com](https://bitbucket.com), ...  
