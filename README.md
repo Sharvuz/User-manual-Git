@@ -32,7 +32,7 @@ III. Ví dụ thực tế:
       ADD: mở git bash (màn hình console) lên, gõ: git add *
       COMMIT: cũng trên bash, gõ: git commit -m "nội dụng đã thực hiện"
               trong đó cái trong dấu ngoặc kép là ghi chú của việc commit, cái này bắt buộc nhập
-      PUSH: cũng trên bash, gõ: git push origin master
+      PUSH: cũng trên bash, gõ: git push origin master 
     + Khi ai đó push gì mới lên thì ở máy lấy về bằng cách: gõ trên bash tại thư mục đã khởi tạo git (git init): git pull origin master
     + Hết, luyện tập bằng cách tạo 1 repo trống trên github cá nhân.
     
